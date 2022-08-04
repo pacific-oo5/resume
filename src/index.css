@@ -1,0 +1,107 @@
+.res{
+  color: beige;
+  text-decoration: none;
+  /* margin: 10px; */
+  margin-left: 115px;
+}
+.navbar{
+  background-color: black;
+}
+.home{
+  width: 500px;
+  margin-left: 350px;
+  margin-top: 100px;
+  
+}
+body{
+  background-color: rgb(255, 232, 236);
+}
+.about {
+  width: 500px;
+  margin-left: 350px;
+  margin-top: 100px;
+}
+body{
+  width: 100%;
+  height: 100%;
+  background-image: url(data:image/jpeg;base64,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);
+}
+/* skills */
+.flex-wrapper {
+  display: flex;
+  flex-flow: row nowrap;
+  margin-top: 170px;
+}
+
+.single-chart {
+  width: 33%;
+  justify-content: space-around;
+}
+
+.circular-chart {
+  display: block;
+  margin: 10px auto;
+  max-width: 40%;
+  max-height: 100px;
+}
+
+.circle-bg {
+  fill: none;
+  stroke: #eee;
+  stroke-width: 3.8;
+}
+
+.circle {
+  fill: none;
+  stroke-width: 2.8;
+  stroke-linecap: round;
+  animation: progress 1s ease-out forwards;
+}
+
+@keyframes progress {
+  0% {
+    stroke-dasharray: 0 100;
+  }
+}
+
+.circular-chart.orange .circle {
+  stroke: #ff9f00;
+}
+
+.circular-chart.green .circle {
+  stroke: #4cc790;
+}
+
+.circular-chart.blue .circle {
+  stroke: #3c9ee5;
+}
+
+.percentage {
+  fill: #666;
+  font-family: sans-serif;
+  font-size: 4px;
+  text-anchor: middle;
+  width: 5px;
+}
+/* skills */
+.footer{
+
+  position: fixed;
+  width: 500px;
+  height: 15%;
+  bottom: 0;
+  color:white;
+}
+.res2{
+  margin-left: 185px;
+  color: beige;
+  text-decoration: none;
+}
+img{
+  width: 2.5%;
+  height: 30%;
+}
+
+img:hover{
+  background-color: white;
+}
